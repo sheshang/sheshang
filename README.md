@@ -6,6 +6,8 @@
 
 - 🤔 I’m looking for help with [Gmail-Analyzer](https://github.com/sheshang/Gmail-Analyzer)
 
+- 🌱 I’m currently learning **Angular, Springboot, Data Science**
+
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **sidajwalia@gmail.com**
